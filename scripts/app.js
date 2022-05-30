@@ -45,7 +45,6 @@ form.addEventListener("submit", (e) => {
 
   updateCity(city)
     .then((data) => {
-      console.log(data)
       updateUi(data)
     })
     .catch((err) => {
