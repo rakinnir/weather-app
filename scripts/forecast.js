@@ -1,5 +1,5 @@
 // unique api key for authorization
-const key = "sgGrHhTpVGdgOQNdvNrG7xAJGS62RFxq"
+const key = "OvaKNeLXiPgA6CRvd6JOpnCaPlHdGueG"
 
 // async funtction for getting city details
 const getCity = async (city) => {
